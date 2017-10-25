@@ -1,0 +1,10 @@
+C:\Users\nuevo\bin\Debug\netcoreapp2.0\nuevo.deps.json
+C:\Users\nuevo\bin\Debug\netcoreapp2.0\nuevo.runtimeconfig.json
+C:\Users\nuevo\bin\Debug\netcoreapp2.0\nuevo.runtimeconfig.dev.json
+C:\Users\nuevo\bin\Debug\netcoreapp2.0\nuevo.dll
+C:\Users\nuevo\bin\Debug\netcoreapp2.0\nuevo.pdb
+C:\Users\nuevo\obj\Debug\netcoreapp2.0\nuevo.csproj.CoreCompileInputs.cache
+C:\Users\nuevo\obj\Debug\netcoreapp2.0\nuevo.AssemblyInfoInputs.cache
+C:\Users\nuevo\obj\Debug\netcoreapp2.0\nuevo.AssemblyInfo.cs
+C:\Users\nuevo\obj\Debug\netcoreapp2.0\nuevo.dll
+C:\Users\nuevo\obj\Debug\netcoreapp2.0\nuevo.pdb
